@@ -1,0 +1,3 @@
+C:/Users/Kellen Long/OneDrive/Documents/GitHub/PrimeNumberFinder/cmake-build-debug/CMakeFiles/PrimeNumberFinder.dir
+C:/Users/Kellen Long/OneDrive/Documents/GitHub/PrimeNumberFinder/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kellen Long/OneDrive/Documents/GitHub/PrimeNumberFinder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
