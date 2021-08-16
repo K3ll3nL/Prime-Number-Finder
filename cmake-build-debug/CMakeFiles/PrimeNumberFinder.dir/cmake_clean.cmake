@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/PrimeNumberFinder.dir/Lists/SkipList.cpp.obj"
   "CMakeFiles/PrimeNumberFinder.dir/Number.cpp.obj"
   "CMakeFiles/PrimeNumberFinder.dir/main.cpp.obj"
   "PrimeNumberFinder.exe"

@@ -80,9 +80,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Kellen Long/OneDrive/Documents/GitHub/PrimeNumberFinder/Lists/SkipList.cpp">
-			<Option target="PrimeNumberFinder"/>
-		</Unit>
 		<Unit filename="C:/Users/Kellen Long/OneDrive/Documents/GitHub/PrimeNumberFinder/Lists/SkipList.h">
 			<Option target="PrimeNumberFinder"/>
 		</Unit>

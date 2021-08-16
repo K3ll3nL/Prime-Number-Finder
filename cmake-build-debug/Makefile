@@ -142,33 +142,6 @@ PrimeNumberFinder/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PrimeNumberFinder.dir\build.make CMakeFiles/PrimeNumberFinder.dir/build
 .PHONY : PrimeNumberFinder/fast
 
-Lists/SkipList.obj: Lists/SkipList.cpp.obj
-
-.PHONY : Lists/SkipList.obj
-
-# target to build an object file
-Lists/SkipList.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PrimeNumberFinder.dir\build.make CMakeFiles/PrimeNumberFinder.dir/Lists/SkipList.cpp.obj
-.PHONY : Lists/SkipList.cpp.obj
-
-Lists/SkipList.i: Lists/SkipList.cpp.i
-
-.PHONY : Lists/SkipList.i
-
-# target to preprocess a source file
-Lists/SkipList.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PrimeNumberFinder.dir\build.make CMakeFiles/PrimeNumberFinder.dir/Lists/SkipList.cpp.i
-.PHONY : Lists/SkipList.cpp.i
-
-Lists/SkipList.s: Lists/SkipList.cpp.s
-
-.PHONY : Lists/SkipList.s
-
-# target to generate assembly for a file
-Lists/SkipList.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PrimeNumberFinder.dir\build.make CMakeFiles/PrimeNumberFinder.dir/Lists/SkipList.cpp.s
-.PHONY : Lists/SkipList.cpp.s
-
 Number.obj: Number.cpp.obj
 
 .PHONY : Number.obj
@@ -232,9 +205,6 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... PrimeNumberFinder
-	@echo ... Lists/SkipList.obj
-	@echo ... Lists/SkipList.i
-	@echo ... Lists/SkipList.s
 	@echo ... Number.obj
 	@echo ... Number.i
 	@echo ... Number.s
